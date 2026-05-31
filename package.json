@@ -13,7 +13,7 @@
   "dependencies": {
     "@remotion/animated-emoji": "4.0.215",
     "@remotion/animation-utils": "4.0.215",
-    "@remotion/cli": "^4.0.0",
+    "@remotion/cli": "^4.0.469",
     "@remotion/zod-types": "^4.0.0",
     "react": "18.3.1",
     "react-dom": "18.3.1",
